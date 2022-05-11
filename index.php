@@ -56,37 +56,37 @@
                         <div class="hr_title"></div>
                     </div>
                     <div class="s_items">
-                        <a class="s_item" href="#">
+                        <a class="s_item" href="/service?page=Оформление потолков">
                             <img class="si_img" src="img/image3.png">
                             <div class="si_text">
                                 <p class="sit_p">Оформление потолков</p>
                             </div>
                         </a>
-                        <a class="s_item" href="#">
+                        <a class="s_item" href="/service?page=Оформление мебели">
                             <img class="si_img" src="img/image4.png">
                             <div class="si_text">
                                 <p class="sit_p">Оформление мебели</p>
                             </div>
                         </a>
-                        <a class="s_item" href="#">
+                        <a class="s_item" href="/service?page=Оформление стен">
                             <img class="si_img" src="img/image5.png">
                             <div class="si_text">
                                 <p class="sit_p">Оформление стен</p>
                             </div>
                         </a>
-                        <a class="s_item" href="#">
+                        <a class="s_item" href="/service?page=Предметы декора">
                             <img class="si_img" src="img/image6.png">
                             <div class="si_text">
                                 <p class="sit_p">Предметы декора</p>
                             </div>
                         </a>
-                        <a class="s_item" href="#">
+                        <a class="s_item" href="/service?page=Комплексное оформление">
                             <img class="si_img" src="img/image7.png">
                             <div class="si_text">
                                 <p class="sit_p">Комплексное оформление</p>
                             </div>
                         </a>
-                        <a class="s_item" href="#">
+                        <a class="s_item" href="/service?page=Оформление пола">
                             <img class="si_img" src="img/image8.png">
                             <div class="si_text">
                                 <p class="sit_p">Оформление пола</p>
